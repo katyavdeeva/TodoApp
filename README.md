@@ -1,0 +1,2 @@
+# TodoApp
+An upgraded TODO application, there is a button above the to-do list to switch the storage used. Clicking on the button restarts the application with a different storage. If the browser's local storage was used, it switches to the server with the API, and vice versa. The label on the button changes accordingly to "Go to local storage" or "Go to server storage". By default, local storage is used.
